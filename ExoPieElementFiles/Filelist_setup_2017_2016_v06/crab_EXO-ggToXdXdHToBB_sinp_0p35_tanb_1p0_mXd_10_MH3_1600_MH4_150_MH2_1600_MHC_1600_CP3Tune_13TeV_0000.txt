@@ -1,0 +1,1 @@
+root://cmsxrootd.hep.wisc.edu///store/user/khurana/ExoPieElement/setup_2017_2016_v06/CRAB_PrivateMC/crab_EXO-ggToXdXdHToBB_sinp_0p35_tanb_1p0_mXd_10_MH3_1600_MH4_150_MH2_1600_MHC_1600_CP3Tune_13TeV/200603_073748/0000/ExoPieElementTuples_1.root

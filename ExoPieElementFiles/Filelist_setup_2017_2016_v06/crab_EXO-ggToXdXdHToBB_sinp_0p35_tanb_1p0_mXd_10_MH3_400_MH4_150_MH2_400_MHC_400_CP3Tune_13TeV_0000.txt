@@ -1,0 +1,2 @@
+root://cmsxrootd.hep.wisc.edu///store/user/khurana/ExoPieElement/setup_2017_2016_v06/CRAB_PrivateMC/crab_EXO-ggToXdXdHToBB_sinp_0p35_tanb_1p0_mXd_10_MH3_400_MH4_150_MH2_400_MHC_400_CP3Tune_13TeV/200603_073316/0000/ExoPieElementTuples_1.root
+root://cmsxrootd.hep.wisc.edu///store/user/khurana/ExoPieElement/setup_2017_2016_v06/CRAB_PrivateMC/crab_EXO-ggToXdXdHToBB_sinp_0p35_tanb_1p0_mXd_10_MH3_400_MH4_150_MH2_400_MHC_400_CP3Tune_13TeV/200603_073316/0000/ExoPieElementTuples_2.root

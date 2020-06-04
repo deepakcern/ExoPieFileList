@@ -1,0 +1,1 @@
+root://cmsxrootd.hep.wisc.edu///store/user/khurana/ExoPieElement/setup_2017_2016_v06/ZJetsToNuNu_HT-2500ToInf_13TeV-madgraph/crab_ZJetsToNuNu_HT-2500ToInf_13TeV-madgraph/200603_072924/0000/ExoPieElementTuples_1.root
