@@ -1,0 +1,7 @@
+root://cmsxrootd.hep.wisc.edu///store/user/khurana/ExoPieElement//setup_2017_2016_2018_v02/WZ_TuneCP5_13TeV-pythia8/crab_WZ_TuneCP5_13TeV-pythia8/200523_204018/0000/ExoPieElementTuples_1.root
+root://cmsxrootd.hep.wisc.edu///store/user/khurana/ExoPieElement//setup_2017_2016_2018_v02/WZ_TuneCP5_13TeV-pythia8/crab_WZ_TuneCP5_13TeV-pythia8/200523_204018/0000/ExoPieElementTuples_2.root
+root://cmsxrootd.hep.wisc.edu///store/user/khurana/ExoPieElement//setup_2017_2016_2018_v02/WZ_TuneCP5_13TeV-pythia8/crab_WZ_TuneCP5_13TeV-pythia8/200523_204018/0000/ExoPieElementTuples_3.root
+root://cmsxrootd.hep.wisc.edu///store/user/khurana/ExoPieElement//setup_2017_2016_2018_v02/WZ_TuneCP5_13TeV-pythia8/crab_WZ_TuneCP5_13TeV-pythia8/200523_204018/0000/ExoPieElementTuples_4.root
+root://cmsxrootd.hep.wisc.edu///store/user/khurana/ExoPieElement//setup_2017_2016_2018_v02/WZ_TuneCP5_13TeV-pythia8/crab_WZ_TuneCP5_13TeV-pythia8/200523_204018/0000/ExoPieElementTuples_5.root
+root://cmsxrootd.hep.wisc.edu///store/user/khurana/ExoPieElement//setup_2017_2016_2018_v02/WZ_TuneCP5_13TeV-pythia8/crab_WZ_TuneCP5_13TeV-pythia8/200523_204018/0000/ExoPieElementTuples_6.root
+root://cmsxrootd.hep.wisc.edu///store/user/khurana/ExoPieElement//setup_2017_2016_2018_v02/WZ_TuneCP5_13TeV-pythia8/crab_WZ_TuneCP5_13TeV-pythia8/200523_204018/0000/ExoPieElementTuples_7.root
