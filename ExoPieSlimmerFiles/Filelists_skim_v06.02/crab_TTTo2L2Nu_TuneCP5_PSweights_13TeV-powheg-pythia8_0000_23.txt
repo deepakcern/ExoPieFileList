@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/skim_v06.02/crab_TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8_0000_23.root

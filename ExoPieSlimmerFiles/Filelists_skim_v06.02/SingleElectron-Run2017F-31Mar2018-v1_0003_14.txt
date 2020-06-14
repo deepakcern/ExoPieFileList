@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/skim_v06.02/SingleElectron-Run2017F-31Mar2018-v1_0003_14.root

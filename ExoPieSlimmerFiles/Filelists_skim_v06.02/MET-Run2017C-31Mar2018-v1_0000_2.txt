@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/skim_v06.02/MET-Run2017C-31Mar2018-v1_0000_2.root

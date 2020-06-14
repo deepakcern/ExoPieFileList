@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/skim_v06.02/crab_ZJetsToNuNu_HT-100To200_13TeV-madgraph_0000_8.root
