@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/v07.04_noJER_updatedFilter/crab_MET-Run2017E-31Mar2018-v1_200928_085226_0000_10.root

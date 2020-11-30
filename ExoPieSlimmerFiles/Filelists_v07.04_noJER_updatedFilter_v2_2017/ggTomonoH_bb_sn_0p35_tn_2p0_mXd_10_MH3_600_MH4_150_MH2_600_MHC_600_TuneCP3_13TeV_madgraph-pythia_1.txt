@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/v07.04_noJER_updatedFilter/ggTomonoH_bb_sn_0p35_tn_2p0_mXd_10_MH3_600_MH4_150_MH2_600_MHC_600_TuneCP3_13TeV_madgraph-pythia_1.root
