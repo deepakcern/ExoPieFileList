@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/v07.06/crab_QCD_HT700to1000_TuneCP5_13TeV-madgraph-pythia8_200927_171137_0000_5.root

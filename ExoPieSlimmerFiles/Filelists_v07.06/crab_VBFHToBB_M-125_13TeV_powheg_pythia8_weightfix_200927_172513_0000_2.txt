@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/v07.06/crab_VBFHToBB_M-125_13TeV_powheg_pythia8_weightfix_200927_172513_0000_2.root

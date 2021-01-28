@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/v07.06/crab_DYJetsToLL_M-50_HT-40to70_TuneCP5_13TeV-madgraphMLM-pythia8_200927_165303_0000_2.root

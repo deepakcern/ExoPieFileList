@@ -1,0 +1,1 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/monoHiggs/monoHbb/skimmedFiles/v07.06/crab_GJets_HT-200To400_TuneCP5_13TeV-madgraphMLM-pythia8_200927_171842_0000_7.root
